@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class Discnt {
 
-    private static String FILE_IN = "example/discnt.2.in";
+    private static String FILE_IN = "discnt.in";
     private static String FILE_OUT = "discnt.out";
 
     public static void main(String[] args) throws Exception {
