@@ -2,8 +2,8 @@ import java.util.Random;
 
 public class Utils {
 
-    public static int[] generateRandomArray(int n){
-        int[] list = new int[n];
+    public static double[] generateRandomArray(int n){
+        double[] list = new double[n];
         Random random = new Random();
 
         for (int i = 0; i < n; i++) {
